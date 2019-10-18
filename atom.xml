@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://chengcjk.github.io/"/>
-  <updated>2019-10-16T10:38:49.946Z</updated>
+  <updated>2019-10-18T10:08:05.797Z</updated>
   <id>https://chengcjk.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>World</title>
+    <link href="https://chengcjk.github.io/2019/10/18/World/"/>
+    <id>https://chengcjk.github.io/2019/10/18/World/</id>
+    <published>2019-10-18T10:06:46.000Z</published>
+    <updated>2019-10-18T10:08:05.797Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="趣味" scheme="https://chengcjk.github.io/categories/%E8%B6%A3%E5%91%B3/"/>
+    
+    
+      <category term="标签" scheme="https://chengcjk.github.io/tags/%E6%A0%87%E7%AD%BE/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
